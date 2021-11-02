@@ -28,9 +28,9 @@ I have made a statc and a interective map of India to visualize COVID-19 confirm
 
 # Screenshots
 
-![App Screenshot](Images/Screenshot (170).png)
+![App Screenshot](Images\img.jpg.png)
 
-![App Screenshot](Images/Screenshot (171).png)
+![App Screenshot](Images\imgg.jpg.png)
 
 
 # Environment
