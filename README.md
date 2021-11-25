@@ -2,6 +2,10 @@
 # Visit the live project
 [https://kundan1rao.github.io/Covid19-map/Code-rmarkdown.html](https://kundan1rao.github.io/Covid19-map/Code-rmarkdown.html)
 
+# Visit the live project 2
+[https://kundan1rao.github.io/Covid19-map/html-tabs.html](https://kundan1rao.github.io/Covid19-map/Code-rmarkdown.html)
+
+
 # My website
 [https://kundanrao.netlify.app/](https://kundanrao.netlify.app/)
 
