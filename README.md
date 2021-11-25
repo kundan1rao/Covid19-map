@@ -1,6 +1,16 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 
 # Visit the live project
+## Simple html page
 [https://kundan1rao.github.io/Covid19-map/Code-rmarkdown.html](https://kundan1rao.github.io/Covid19-map/Code-rmarkdown.html)
+
+## customised multitab html
+[https://kundan1rao.github.io/Covid19-map/html-tabs.html](https://kundan1rao.github.io/Covid19-map/html-tabs.html)
+
 
 # My website
 [https://kundanrao.netlify.app/](https://kundanrao.netlify.app/)
