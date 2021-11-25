@@ -1,4 +1,10 @@
 
+# Visit the live project
+[https://kundan1rao.github.io/Covid19-map/Code-rmarkdown.html](https://kundan1rao.github.io/Covid19-map/Code-rmarkdown.html)
+
+# My website
+[https://kundanrao.netlify.app/](https://kundanrao.netlify.app/)
+
 # COVID-19 India Map
 
 I have made a statc and a interective map of India to visualize COVID-19 confirmed cases in India state wise as of 1st october 2021.
